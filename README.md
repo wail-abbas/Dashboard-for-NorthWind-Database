@@ -5,4 +5,4 @@
 * Install Metabase on an AWS EC2 Machine.
 * Create a Metabase dashboard.
  
-### There are some examples of dashboards in the Data_Visualization folder that were generated from the Northwind Database.
+#### There are some examples of dashboards in the Data_Visualization folder that were generated from the Northwind Database.
